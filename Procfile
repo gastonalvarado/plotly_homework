@@ -1,1 +1,1 @@
-web: gunicorn bellybuttongaston.app:app
+web: gunicorn app;app
